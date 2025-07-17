@@ -48,4 +48,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ### 👨‍💻 Author
 Achille Pisani – [GitHub](https://github.com/pixettonebboy)
 
-Feel free to contribute or suggest improvements via pull requests or issues 🚀
+Feel free to contribute or suggest improvements via pull requests or issues

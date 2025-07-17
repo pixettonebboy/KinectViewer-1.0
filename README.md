@@ -19,5 +19,32 @@
 
 - A Windows Operative System (we're going to use a Windows-Only SDK...) *Linux users can rely on libfreenect as long as they have to change the references in the Visual Studio project.*
 - Microsoft Kinect SDK v1.8
-- Kinect for Xbox 360 (v1) + USB adapter + power supply
+- Kinect for Xbox 360 (v1) + USB adapter and power supply
 - Visual Studio 2017 or newer (.NET Framework WPF)
+
+## 🛠️ Installation
+
+#### 1️⃣ Install Kinect SDK v1.8
+- Download it from [here](https://www.microsoft.com/en-us/download/details.aspx?id=40278)  
+- Follow the instructions to install the drivers and libraries  
+
+#### 2️⃣ Connect the Kinect to your PC
+- Use the USB adapter + power supply
+
+#### 3️⃣ Clone the project
+- you can use the bash command: git clone https://https://github.com/pixettonebboy/KinectViewer-1.0.git
+
+#### 4️⃣ Open the project with Visual Studio
+
+#### 5️⃣ Add reference to Microsoft.Kinect.dll  
+- ⚠️⚠️VERY IMPORTANT!!⚠️⚠️  
+#### 6️⃣ Run the project!
+- by pressing F5
+
+### 📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### 👨‍💻 Author
+Achille Pisani – [GitHub](https://github.com/pixettonebboy)
+
+Feel free to contribute or suggest improvements via pull requests or issues 🚀

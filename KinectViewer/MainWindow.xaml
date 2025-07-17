@@ -1,1 +1,26 @@
+//Achille Pisani's KinectViewer Project
 
+//GUI!!
+
+<Window x:Class="KinectViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect Viewer" Height="600" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Image x:Name="colorImage" Grid.Column="0" Margin="5"/>
+        <Image x:Name="depthImage" Grid.Column="1" Margin="5"/>
+        <Canvas x:Name="skeletonCanvas" Grid.ColumnSpan="2" Background="Transparent" IsHitTestVisible="False"/>
+
+        <Button Grid.Row="1" Grid.ColumnSpan="2" Height="40" Content="Chiudi" Click="Close_Click" HorizontalAlignment="Center" Margin="10"/>
+    </Grid>
+</Window>

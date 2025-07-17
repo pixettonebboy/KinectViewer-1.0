@@ -1,7 +1,7 @@
 # KinectViewer v1.0
-#### it's just a BETA!
-
 ### 🎥 A lightweight C# GUI to display real-time data from the Kinect for Xbox 360 on PC: RGB stream, depth map, and skeleton tracking.
+
+#### it's just a BETA!
 
 ## 🚀 Features  
 

@@ -17,7 +17,7 @@
 
 ## ⚙️ Requirements
 
-- A Windows Operative System (we're going to use a Windows-Only SDK...)
+- A Windows Operative System (we're going to use a Windows-Only SDK...) *Linux users can use libfreenect*
 - Microsoft Kinect SDK v1.8
 - Kinect for Xbox 360 (v1) + USB adapter + power supply
 - Visual Studio 2017 or newer (.NET Framework WPF)

@@ -13,7 +13,7 @@
 - Multi-user skeleton tracking support
 
 ## 🖼️ Screenshot
-*work in progress...*
+  [KinectViewer Screenshot](img/KVBETAScreenshotCensored.jpg)
 
 ## ⚙️ Requirements
 
